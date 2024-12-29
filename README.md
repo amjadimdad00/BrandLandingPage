@@ -1,6 +1,6 @@
 # Basic Brand Landing Page 🌟
 
-This project is a **basic brand landing page** built as part of my learning journey with React. The goal was to practice creating reusable components and styling with **Tailwind CSS** while implementing responsive design.
+🌟 This project is a **basic brand landing page** built as part of my learning journey with React ⚛️. The goal was to practice creating reusable components ♻️ and styling with **Tailwind CSS** 🎨 while implementing responsive design 📱💻.
 
 ---
 
