@@ -1,10 +1,8 @@
-import Logo from "/public/Brand_Logo.png";
-
 const Header = () => {
   return (
     <div className="container mx-auto px-4 sm:px-6 md:px-8 py-3 sm:py-4 lg:py-5 flex justify-between items-center">
       <img
-        src={Logo}
+        src="/Brand_Logo.png"
         alt="Brand Logo"
         className="w-[60px] h-[33px] lg:w-[68px] lg:h-[36.55px] xl:w-[76px] xl:h-[42.75px]"
       />

@@ -1,6 +1,3 @@
-import Flipcart from "/public/Flipcart.png";
-import Amazon from "/public/Amazon.png";
-
 const HeroSection = () => {
   return (
     <div className="flex flex-col lg:flex-row items-center justify-center h-full px-6 sm:px-10 md:px-16 lg:px-32 py-10 md:py-16 xl:py-20">
@@ -26,13 +23,13 @@ const HeroSection = () => {
             Also Available On
           </p>
           <div className="flex justify-center lg:justify-start items-center gap-3 sm:gap-4">
-            <img src={Flipcart} alt="Flipcart" className="w-5 sm:w-6 xl:w-8" />
-            <img src={Amazon} alt="Amazon" className="w-5 sm:w-6 xl:w-8" />
+            <img src="/flipcart.png" alt="Flipcart" className="w-5 sm:w-6 xl:w-8" />
+            <img src="/amazon.png" alt="Amazon" className="w-5 sm:w-6 xl:w-8" />
           </div>
         </div>
       </div>
       <img
-        src="/public/hero-image.png"
+        src="/hero-image.png"
         alt="Hero Image"
         className="mt-6 lg:mt-0 w-[250px] h-[200px] sm:w-[300px] sm:h-[240px] md:w-[350px] md:h-[280px] lg:w-[397.5px] lg:h-[320px] xl:w-[530px] xl:h-[487.06px]"
       />
